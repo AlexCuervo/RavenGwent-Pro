@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 820145111c6a4f648b6d68011dcdec71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - botonSiegePrefab: {instanceID: 0}
+  - botonRangePrefab: {instanceID: 0}
+  - botonMeleePrefab: {instanceID: 0}
+  - cartaImg: {instanceID: 0}
+  - carta: {instanceID: 0}
+  - Boton: {fileID: 907393742551389289, guid: cb594086f6f305f47bd6cbb3c5b9c6a3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

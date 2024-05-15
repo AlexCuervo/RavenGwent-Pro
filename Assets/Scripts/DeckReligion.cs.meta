@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 16e247f6d46c68f439a2878fd8f3a87d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dios: {fileID: -8634695952062551558, guid: 2076a12a794eec24fb72b3baf0dc9415, type: 3}
+  - Monje: {fileID: 2312355876357722932, guid: 1fbb3a9e76848d64f95495af7ee4c364, type: 3}
+  - Zeus: {fileID: 8706120246985840018, guid: 2dc0932c0185a664ea1723eef241e4f0, type: 3}
+  - Valkyria: {fileID: -5008827107140876281, guid: dce25b63c00ee5d4d96ab2758ef47f59, type: 3}
+  - Ra: {fileID: -6661467023625238207, guid: 7dc7960524b223b418aed83f032351eb, type: 3}
+  - Cruzado: {fileID: -2392131919091215336, guid: f7b95a7a26ba8e34d9e2168a3dfe9809, type: 3}
+  - Sacerdote: {fileID: -5547181109021513367, guid: 4a4bfbad6c9fad84ca15d4d23072ca96, type: 3}
+  - Marte: {fileID: 6840027184051265397, guid: f89846c70f853af4e97b626d64798b1b, type: 3}
+  - Kratos: {fileID: 5292883396959694096, guid: 9852f3c67161bbd43948709b8e86d252, type: 3}
+  - Poseidon: {fileID: -8926010351672009938, guid: 8de56d5d59f245546932b9ee1d841566, type: 3}
+  - SolMuerto: {fileID: -7481595538238565279, guid: d7d05bcb1051bd342aaae4fc0bc6f218, type: 3}
+  - SeptimoDia: {fileID: 4634736434503047283, guid: 8fb9983b424a64d40b60ad7037f84064, type: 3}
+  - Rosario: {fileID: 7958429447224914148, guid: 4355d634cf94e3a4790b2448c848ccdd, type: 3}
+  - Clero: {fileID: 928761291037908123, guid: db04141435f460848a443cb8b9385324, type: 3}
+  - AguaBendita: {fileID: 8280514379507712973, guid: 7c85cdb0bbacdda43a30e2c82be10e8a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

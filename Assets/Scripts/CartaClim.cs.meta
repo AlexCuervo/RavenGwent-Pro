@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 078022e7c0e2698489df7c38ce29b618
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player1AreaClima: {fileID: 7974761554438297066, guid: ba1da60ae0296fe4b8821ad8dde45a08, type: 3}
+  - Player2AreaClima: {fileID: 6420984300495994273, guid: 1b2b3693f3d91324996ae6a2101dcac4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

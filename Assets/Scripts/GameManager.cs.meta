@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 1e79513b52b86e2439277765364a8241
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dios: {fileID: -8634695952062551558, guid: 2076a12a794eec24fb72b3baf0dc9415, type: 3}
+  - Monje: {instanceID: 0}
+  - Zeus: {instanceID: 0}
+  - Valkyria: {instanceID: 0}
+  - Ra: {instanceID: 0}
+  - Cruzado: {instanceID: 0}
+  - Sacerdote: {instanceID: 0}
+  - Marte: {instanceID: 0}
+  - Kratos: {instanceID: 0}
+  - Poseidon: {instanceID: 0}
+  - SolMuerto: {instanceID: 0}
+  - SeptimoDia: {instanceID: 0}
+  - Rosario: {instanceID: 0}
+  - Clero: {fileID: 928761291037908123, guid: db04141435f460848a443cb8b9385324, type: 3}
+  - AguaBendita: {fileID: 8280514379507712973, guid: 7c85cdb0bbacdda43a30e2c82be10e8a, type: 3}
+  - Rick: {instanceID: 0}
+  - Sheldon: {instanceID: 0}
+  - Einstein: {instanceID: 0}
+  - Tesla: {instanceID: 0}
+  - Curie: {instanceID: 0}
+  - Stark: {instanceID: 0}
+  - Banner: {instanceID: 0}
+  - Zuckerberg: {instanceID: 0}
+  - CuboRubik: {instanceID: 0}
+  - Metaverso: {instanceID: 0}
+  - Laboratorio: {instanceID: 0}
+  - Reset: {instanceID: 0}
+  - Curso: {instanceID: 0}
+  - RedPill: {instanceID: 0}
+  - Pizarra: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
